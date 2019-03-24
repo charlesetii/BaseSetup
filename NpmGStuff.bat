@@ -1,4 +1,4 @@
-# https://hackernoon.com/the-best-of-npm-install-g-9ab9d749eeb1
+####### https://hackernoon.com/the-best-of-npm-install-g-9ab9d749eeb1
 
 # working with npm
 #npm install -g yarn
@@ -40,3 +40,10 @@ npm install -g typescript
 # rarely used nowadays, but still useful to have
 npm install -g gulp
 npm install -g less
+
+
+#### My Stuff
+npm install -g nodemon
+npm install -g david
+npm install -g angular-cli
+npm i -g nativescript
